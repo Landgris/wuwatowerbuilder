@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/wuwatowerbuilder/static/css/main.f855e6bc.css",
-    "main.js": "/wuwatowerbuilder/static/js/main.d225e91d.js",
+    "main.js": "/wuwatowerbuilder/static/js/main.80a383b1.js",
     "index.html": "/wuwatowerbuilder/index.html",
     "main.f855e6bc.css.map": "/wuwatowerbuilder/static/css/main.f855e6bc.css.map",
-    "main.d225e91d.js.map": "/wuwatowerbuilder/static/js/main.d225e91d.js.map"
+    "main.80a383b1.js.map": "/wuwatowerbuilder/static/js/main.80a383b1.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.d225e91d.js"
+    "static/js/main.80a383b1.js"
   ]
 }
