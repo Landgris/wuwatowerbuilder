@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wuwatowerbuilder/static/css/main.f855e6bc.css",
+    "main.js": "/wuwatowerbuilder/static/js/main.162bea36.js",
+    "index.html": "/wuwatowerbuilder/index.html",
+    "main.f855e6bc.css.map": "/wuwatowerbuilder/static/css/main.f855e6bc.css.map",
+    "main.162bea36.js.map": "/wuwatowerbuilder/static/js/main.162bea36.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.162bea36.js"
+  ]
+}
